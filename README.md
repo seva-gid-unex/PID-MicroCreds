@@ -9,3 +9,12 @@ To assess the impact of the initiative, both quantitative and qualitative analys
 The qualitative evaluation was based on a student survey. The results indicate a positive perception of the initiative, with most students reporting that microcredentials increased their motivation, encouraged greater effort, particularly in practical activities, and helped them recognise their learning achievements. Furthermore, 82.6% of respondents stated that they would like similar microcredentials to be implemented in more university courses.
 
 Overall, the project demonstrates that digital microcredentials can be successfully integrated into the assessment of official university courses. Beyond recognising specific competencies, they contribute to improving student engagement and provide an innovative complement to competency-based assessment. The positive results obtained support the extension of this approach to additional subjects and degree programmes and encourage further research into its long-term educational impact.
+
+___
+All contents published in this repository are subject to a license:
+
+[![CC-BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+<div style="font-size: 80%">
+These contents have been developed within the Teaching Innovation Project entitled "Use of Microcredentials in the Assessment of Computer Science and Emerging Technology Courses" (LP2. Educational Technologies and the Virtualization of University Teaching), funded by the Guidance and Teacher Training Service (SOFD) of the University of Extremadura (UEx), Spain, under the Teaching Innovation Actions 2025/2026.
+</div>
